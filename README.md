@@ -1,5 +1,3 @@
-# Poratfolio
+# Starter theme
 
-Portafolio personal / CV
-
-Mi nombre es Hector Manuel Oloño soy de Hermosillo Sonora...
+Estructura basica para la creacion de sitios web con boostrap.
